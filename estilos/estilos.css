@@ -1,0 +1,25 @@
+body { 
+    color:rgb(0, 0, 0);
+    background-color: rgb(255, 234, 254);   
+}
+
+a:visited{
+    color: rgb(255, 0, 153);
+    font-size: smaller;
+}
+
+a:hover {
+    color: blueviolet;
+}
+
+a:active{
+    color: rgb(43, 255, 0);
+}
+
+a:link{
+    text-decoration: none;
+}
+
+div {
+    text-align: center;
+}
